@@ -30,7 +30,8 @@
 | P Gururaj          | 1TU24CS115    |
 | Sudarshan Pai      | 1DA23IS050    |
 | Safiya Samreen     | 1TU24CB038    |
-| Chaya              | 1TU24IS022    |
+| Rakshith j     | 1TU24EC114| 
+Chaya              | 1TU24IS022    |
 | Sanketh K T        | 1TU24CB041    |
 | Harshith Gowda G S | 1TU24EC050    |
 | Dharmik S Shetty   | 1TU24CS055    |
